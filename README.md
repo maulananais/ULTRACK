@@ -1,6 +1,6 @@
 # ULTRACK 🌐
 
-Welcome to **ULTRACK**, a powerful command-line tool for discovering username information across various websites. Using the Sherlock library, USNFINDER helps you find where a specific username is used on the internet.
+Welcome to **ULTRACK**, a powerful command-line tool for discovering username information across various websites. Using the Sherlock library, ULTRACK helps you find where a specific username is used on the internet.
 
 ## Features ✨
 
