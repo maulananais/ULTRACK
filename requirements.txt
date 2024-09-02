@@ -1,0 +1,4 @@
+sherlock-project
+requests
+beautifulsoup4
+colorama
