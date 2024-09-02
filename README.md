@@ -124,6 +124,6 @@ A big thanks to:
 2. **My parents** for their endless support and encouragement.
 3. **Sherlock Project** for providing the foundation of this tool.
 
-4. ## Contributing 👥
+## Contributing 👥
 
 Contributions are welcome! Feel free to fork this repository, open an issue, or submit a pull request.
